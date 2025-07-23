@@ -1,0 +1,1 @@
+print (10 and 30 and 20 and 0)
